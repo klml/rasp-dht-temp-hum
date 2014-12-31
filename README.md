@@ -1,6 +1,8 @@
 rasp-dht-temp-hum
 =================
 
-log temperature and humidity with DHT on raspberry and show on [index.html#temphumdity.csv](index.html#temphumdity.csv) (use hash for logfilepath) 
+bash script to log temperature and humidity with DHT on raspberry, show graphs in html.
+
+[demo](http://klml.github.io/rasp-dht-temp-hum/#examples/bath.csv)
 
 The script [temphumdity.sh](temphumdity.sh) and the hardware is based on [Temperaturmessung mit dem Raspberry Pi](http://www.test-wetterstation.de/temperaturmessung-mit-dem-raspberry-pi)
